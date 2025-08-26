@@ -6,9 +6,16 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://activateuhc-ucardonline.github.io/</loc>
+    <loc>https://activateuhc-ucardonline.github.io/unitedhealthcare-online.html</loc>
     <lastmod>2025-08-26</lastmod>
     <priority>0.90</priority>
   </url>
+   <url>
+    <loc>https://activateuhc-ucardonline.github.io/activate-ucard.html</loc>
+    <lastmod>2025-08-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
 </urlset>
+
 
